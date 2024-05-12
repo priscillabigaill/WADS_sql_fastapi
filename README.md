@@ -18,4 +18,5 @@ Trying out the create item function:
 
 DB after:
 
-![](assets/dbAFter.pdf)
+![](assets/after.png)
+
