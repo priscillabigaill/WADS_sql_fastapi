@@ -18,3 +18,4 @@ Trying out the create item function:
 
 DB after:
 
+![](/assets/dbAFter.png)
