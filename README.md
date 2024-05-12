@@ -1,6 +1,7 @@
 Priscilla Abigail 2602109883
 
 Folder structure:
+
 ![](/assets/structure.png)
 
 DB before:
