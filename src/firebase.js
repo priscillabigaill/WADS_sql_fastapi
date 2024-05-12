@@ -5,7 +5,7 @@ import { GoogleAuthProvider } from 'firebase/auth';
 import { getStorage } from 'firebase/storage';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAR-4g5oDHAqC9XNMYW-Dr_LZj9SI_qDsc",
+  apiKey: "",
   authDomain: "abigailstodoapp.firebaseapp.com",
   projectId: "abigailstodoapp",
   storageBucket: "abigailstodoapp.appspot.com",
