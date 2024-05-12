@@ -8,6 +8,10 @@ FastAPI functions:
 
 ![](/assets/fastAPI.png)
 
+DB before:
+
+![](/assets/dbBefore.png)
+
 Trying out the create item function: 
 
 ![](/assets/fastAPItry.png)
